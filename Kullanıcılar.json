@@ -1,16 +1,16 @@
 [
   {
     "id": "f284754b519c1ff9",
-    "username": "furkan",
-    "password": "furkan",
-    "expiresAt": "2027-12-31",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "f284754b519c1ff9",
-    "username": "user",
-    "password": "123",
-    "expiresAt": "2060-11-30",
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
     "allowOffline": false
   }
 ]
